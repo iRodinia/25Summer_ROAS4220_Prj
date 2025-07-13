@@ -1,0 +1,7 @@
+bias0=10
+bias1=10
+bias2=10
+bias3=10
+bias4=10
+bias5=10
+{$!}
